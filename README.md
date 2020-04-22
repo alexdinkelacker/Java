@@ -2,10 +2,8 @@
 
 Santa Barbara City College.
 
-Here will be all my projects done in Java. 
-
-Thank you for viewing. 
-
+Here will be all my projects done in Java.  
+Thank you for viewing.  
 If you have any questions, do not hesitate to ask me. 
 
 Enjoy.

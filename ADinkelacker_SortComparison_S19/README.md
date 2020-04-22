@@ -1,3 +1,7 @@
+# Santa Barbara City College - Professor Strenn - Spring 2019 
+
+This program highlights sorting algorithms and how they are implemented. 
+
 # JavaCoreTemplate
 Includes:
 * `Program.java`, with a `main()` that is ready to go, and has useful classes statically imported.

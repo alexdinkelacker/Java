@@ -1,7 +1,8 @@
+# Santa Barbara City College - Professor Strenn - Spring 2019 
+
 This program analyzes a string of DNA nucleotides. 
 The program can search for specific sequences, replace sequences and can handle a large amount of data. 
 
-Santa Barbara City College - Professor Strenn - Spring 2019 
 # JavaCoreTemplate
 Includes:
 * `Program.java`, with a `main()` that is ready to go, and has useful classes statically imported.
